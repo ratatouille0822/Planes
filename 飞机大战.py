@@ -13,7 +13,7 @@ bg = pygame.image.load("./images/background.png")
 main_screen.blit(bg,(0, 0))
 
 #加载英雄飞机
-hero_plane = pygame.image.load("./images/me1.png")
+hero_plane = pygame.image.load("./images/pangci.png")
 main_screen.blit(hero_plane, (200,500))
 
 # 刷新屏幕
