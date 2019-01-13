@@ -1,6 +1,7 @@
 import pygame
 
-# 初始化代码
+# 初始
+print(pygame.ver)
 pygame.init()
 
 # 游戏代码
